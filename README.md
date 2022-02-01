@@ -1,6 +1,6 @@
 # Hi there! My name is Giuseppe Sinopoli, welcome to my GitHub profile 👋
 
-I'm a marketing specialist turned data scientist and AI Engineer. For my previous experiences you can check out my LinkedIn Page [GitHub Pages](https://www.linkedin.com/in/giuseppe-sinopoli/).
+I'm a marketing specialist turned data scientist and AI Engineer. For my previous experiences you can check out my [LinkedIn Page](https://www.linkedin.com/in/giuseppe-sinopoli/).
 
 
 
