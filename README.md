@@ -7,12 +7,13 @@ I set off on this new journey with the help of :link: [Strive School](https://st
 
 ![image](https://user-images.githubusercontent.com/84836591/152047001-67b8e420-ff22-4a34-b5eb-749f77a9acca.png)
 
-##### Python Libraries :
+Python Libraries :
 
-Pandas, Numpy, Matplotlib, BeautifulSoup, Scikit, Pytorch, OpenCV, Spacy, Flask
+##### Pandas, Numpy, Matplotlib, BeautifulSoup, Scikit, Pytorch, OpenCV, Spacy, Flask
 
-##### Other tech I've been using:
-PostgreSQL, Jupyter Notebooks, Docker, Bootstrap.
+Other tech I've been using:
+
+##### PostgreSQL, Jupyter Notebooks, Docker, Bootstrap.
 
 
 
