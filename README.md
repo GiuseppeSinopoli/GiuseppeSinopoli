@@ -23,7 +23,7 @@ PostgreSQL, Jupyter Notebooks, Docker, Bootstrap.
 
 ## In my :file_folder: [Portfolio Repository](https://github.com/GiuseppeSinopoli/Portfolio), you can find some examples of my coding.
 
-If something catches your attention, feel free to contact me on [LinkedIn] (https://www.linkedin.com/in/giuseppe-sinopoli/) or send me an email at :email: [giuse.sinop@gmail.com](mailto:giuse.sinop@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+If something catches your attention, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/giuseppe-sinopoli/) or send me an email at :email: [giuse.sinop@gmail.com](mailto:giuse.sinop@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 
