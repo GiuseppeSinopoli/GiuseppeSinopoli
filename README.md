@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there! My name is Giuseppe Sinopoli, welcome to my GitHub profile 👋
+
+I'm a marketing specialist turned data scientist and AI Engineer. For my previous experiences you can check out my LinkedIn Page [GitHub Pages](https://www.linkedin.com/in/giuseppe-sinopoli/).
+
+
 
 <!--
 **GiuseppeSinopoli/GiuseppeSinopoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
