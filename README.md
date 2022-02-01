@@ -1,12 +1,15 @@
 # Hi there! My name is Giuseppe Sinopoli, welcome to my GitHub profile 👋
 
-I'm a Marketing Specialist turned Data Scientist and AI Engineer. For my previous experiences you can check out my [LinkedIn Page](https://www.linkedin.com/in/giuseppe-sinopoli/).
+I'm a Marketing Specialist turned Data Scientist and AI Engineer. For my previous experiences you can check out my :link: [LinkedIn Page](https://www.linkedin.com/in/giuseppe-sinopoli/).
 
-I set off on this new journey with the help of [Strive School](https://strive.school/) where I have learned about the theory and how to use all of these technologies:
+I set off on this new journey with the help of :link: [Strive School](https://strive.school/) where I have learned about the theory and how to use all of these technologies:
 
 
 ![image](https://user-images.githubusercontent.com/84836591/152047001-67b8e420-ff22-4a34-b5eb-749f77a9acca.png)
 
+###Python Libraries :
+
+Pandas, Numpy, Matplotlib, BeautifulSoup, Scikit, Pytorch, OpenCV, Spacy, Flask
 
 
 
