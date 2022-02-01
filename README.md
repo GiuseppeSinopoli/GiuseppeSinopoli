@@ -18,7 +18,7 @@ PostgreSQL, Jupyter Notebooks, Docker, Bootstrap.
 
 In my PORTFOLIO repository, you can find some examples of my coding.
 
-If something catches your attention, feel free to contact me on LinkedIn or send me an email :email: at giuse.sinop@gmail.com  [giuse.sinop@gmail.com](mailto:giuse.sinop@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+If something catches your attention, feel free to contact me on LinkedIn or send me an email :email: at :email: [giuse.sinop@gmail.com](mailto:giuse.sinop@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 
