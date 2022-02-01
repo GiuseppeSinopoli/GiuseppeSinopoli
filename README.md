@@ -6,7 +6,8 @@ I set off on this new journey with the help of [Strive School](https://strive.sc
 
 
 
-![image](https://user-images.githubusercontent.com/84836591/152045497-2853587b-07d7-4e4c-8d04-6245b6493fcb.png)
+![image](https://user-images.githubusercontent.com/84836591/152045596-b4b4d8df-793d-40e4-ab68-ca1782cd6f5c.png)
+
 
 
 
