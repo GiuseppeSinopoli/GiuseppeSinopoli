@@ -1,16 +1,24 @@
-# Hi there! My name is Giuseppe Sinopoli, welcome to my GitHub profile 👋
+## Hi there! My name is Giuseppe Sinopoli, welcome to my GitHub profile 👋
 
 I'm a Marketing Specialist turned Data Scientist and AI Engineer. For my previous experiences you can check out my :link: [LinkedIn Page](https://www.linkedin.com/in/giuseppe-sinopoli/).
 
-I set off on this new journey with the help of :link: [Strive School](https://strive.school/) where I have learned about the theory and how to use all of these technologies:
+I set off on this new journey with the help of :link: [Strive School](https://strive.school/) where I have learned the theory and practice of these technologies:
 
 
 ![image](https://user-images.githubusercontent.com/84836591/152047001-67b8e420-ff22-4a34-b5eb-749f77a9acca.png)
 
-###Python Libraries :
+### Python Libraries :
 
 Pandas, Numpy, Matplotlib, BeautifulSoup, Scikit, Pytorch, OpenCV, Spacy, Flask
 
+### Other tech I've been using:
+PostgreSQL, Jupyter Notebooks, Docker, Bootstrap.
+
+
+
+In my PORTFOLIO repository, you can find some examples of my coding.
+
+If something catches your attention, feel free to contact me on LinkedIn or send me an email :email: at giuse.sinop@gmail.com  [giuse.sinop@gmail.com](mailto:giuse.sinop@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
 
