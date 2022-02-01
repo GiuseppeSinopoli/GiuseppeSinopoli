@@ -2,9 +2,13 @@
 
 I'm a Marketing Specialist turned Data Scientist and AI Engineer. For my previous experiences you can check out my [LinkedIn Page](https://www.linkedin.com/in/giuseppe-sinopoli/).
 
-I set off on this new journey with the help of [Strive School](https://strive.school/) where I have learned to use all these cool tools:
+I set off on this new journey with the help of [Strive School](https://strive.school/) where I have learned about the theory and how to use all of these technologies:
 
-![image](https://user-images.githubusercontent.com/84836591/152043244-93b89419-d179-4ce1-8c43-dabea84bcfd0.png) ![image](https://user-images.githubusercontent.com/84836591/152043486-c12b9fd2-27f9-42c8-9f0e-89915242cb2d.png)
+![image](https://user-images.githubusercontent.com/84836591/152043244-93b89419-d179-4ce1-8c43-dabea84bcfd0.png) 
+
+![image](https://user-images.githubusercontent.com/84836591/152043719-d4a426a6-3485-4ce2-be08-b860e9253b51.png)
+
+
 
 
 
