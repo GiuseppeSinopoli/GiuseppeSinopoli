@@ -5,8 +5,8 @@ I'm a Marketing Specialist turned Data Scientist and AI Engineer. For my previou
 I set off on this new journey with the help of [Strive School](https://strive.school/) where I have learned about the theory and how to use all of these technologies:
 
 
+![image](https://user-images.githubusercontent.com/84836591/152045683-66556038-9e5e-4f7b-b489-90607031b2e3.png)
 
-![image](https://user-images.githubusercontent.com/84836591/152045596-b4b4d8df-793d-40e4-ab68-ca1782cd6f5c.png)
 
 
 
